@@ -1,0 +1,25 @@
+From 14d43c780dcf87c714efed86d9a73eb6d15c25dc Mon Sep 17 00:00:00 2001
+From: Xiaoming Lu <xlu@xlu-labtop.gateway.pace.com>
+Date: Tue, 23 Sep 2014 19:52:47 -0500
+Subject: [PATCH] Change to German
+
+---
+ lab1_git/HelloWorld/src/HelloWorld.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/lab1_git/HelloWorld/src/HelloWorld.java b/lab1_git/HelloWorld/src/HelloWorld.java
+index b316ea1..0a9b78c 100644
+--- a/lab1_git/HelloWorld/src/HelloWorld.java
++++ b/lab1_git/HelloWorld/src/HelloWorld.java
+@@ -1,7 +1,7 @@
+ 
+ public class HelloWorld {
+ 	public static void main( String [] args){
+-		System.out.println("Hello World!");
++		System.out.println("Hallo Welt!");
+ 	}
+ 
+ }
+-- 
+1.8.4.2
+
